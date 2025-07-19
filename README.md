@@ -54,7 +54,7 @@ starter/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/bankist-landing-page.git
+   git clone https://github.com/amirreza-ansari/Bankist-landing-page.git
    ```
 2. **Open `index.html` in your browser.**
 3. **Explore the interactive features!**
